@@ -1,0 +1,21 @@
+.container {
+    max-width: 1024px;
+    max-height: 768px;
+    overflow: auto;
+    margin: 50px auto;
+}
+.footer div {
+    height: 100px;
+    line-height: 100px;
+    background: #f1c40f;
+}
+.main {
+    height: 568px;
+}
+.mainAdmin {
+    height: 500px;
+}
+.imageTitle{
+    height: 30px;
+    width: 300px;
+}

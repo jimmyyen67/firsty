@@ -1,0 +1,1 @@
+<input type="{{ $type }}" name="{{ $name }}" @isset($placeholder) placeholder="{{ $placeholder }}" @endisset @isset($value) value="{{ $value }}" @endisset>
